@@ -39,7 +39,6 @@ It is our intention so that when the user has completed watching a movie, they c
 
 ## Link to the deployed URL below:
 
-https://waltscode.github.io/FilmFinder/ 
 
 
 ## Screenshot of the website can be found below:
